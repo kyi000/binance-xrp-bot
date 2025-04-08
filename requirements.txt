@@ -1,0 +1,10 @@
+python-binance==1.0.17
+pandas==2.0.3
+numpy==1.24.3
+ta==0.10.2
+matplotlib==3.7.2
+python-dotenv==1.0.0
+loguru==0.7.2
+websocket-client==1.6.1
+ccxt==4.0.83
+scheduler==0.8.4
